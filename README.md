@@ -32,6 +32,8 @@ I have used the following python libraries for this analysis.
 1. pandas and numpy for data wrangling
 2. seaborn and matplotlib for data visualization
 
+The analysis is in the jupyter notebook **netflix_insights.ipynb**, which is included in this repository.
+
 The dataset used came from Kaggle www.kaggle.com https://www.kaggle.com/shivamb/netflix-shows
 
 Base on the questions that I have come up for this dataset, the features that would give us the answers would be coming mostly from the director,country, title and cast columns. After inspecting the data I needed replace the country and ratings column with the mode and drop the other fields that do not have any values and will not have a big effect on the questions that we want to answer. I also needed to split the cast and duration columns to be able to answer the 1,4 and 5th questions.
