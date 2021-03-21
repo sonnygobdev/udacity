@@ -20,7 +20,7 @@ Netflix is in the business of entertainment and it does it by streaming movies a
 # Data Understanting- Netflix TV Shows and Movies
 The dataset used for this analysis is the netflix tv shows and movies from Kaggle https://www.kaggle.com/shivamb/netflix-shows, which consists of tv shows and movies available on Netflix as of 2019.
 
-There are very interesting features with the dataset and after ffter looking at it I got really excited and come up with this questions:
+There are very interesting features with the dataset and after looking at it I got really excited and come up with this questions:
 1. Who is the director with the most movies/shows directed?
 2. Who is the actor/actress with the most number of shows/movies casted in
 3. Which country produced the most content
