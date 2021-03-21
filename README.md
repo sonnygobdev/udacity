@@ -12,6 +12,10 @@ Install Jupyter using Python’s package manager, pip, instead of Anaconda.
 1. Ensure that you have the latest pip; older versions may have trouble with some dependencies. **pip3 install --upgrade pip**
 2. Install Jupyter notebook using **pip3 install jupyter**
 
+The analysis is in the jupyter notebook **netflix_insights.ipynb**.<br/>
+The dataset used is in the file **netflix_titles.csv**.<br/>
+Both are  included in this repository.
+
 # Business Understanding
 I am a big fan of Netflix! I think everybody is especially during this pandemic situation, I would say it has helped me, my family and friends stay calm and sane in this crazy state we are in. At work it also became a means of bonding with co-workers and helps break the ice by sharing stories on the latest movie or shows they’ve watched during video calls and virtual coffee sessions.
 
