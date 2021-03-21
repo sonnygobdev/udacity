@@ -2,15 +2,15 @@
 This repository contains jupyter notebooks that provides data analysis on public datasets.
 
 # Getting started
-1. Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5). https://www.anaconda.com/
-2. Install the version of Anaconda which you downloaded, following the instructions on the download page.
+* Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5). https://www.anaconda.com/
+* Install the version of Anaconda which you downloaded, following the instructions on the download page.
 
 For experience Python users, you can install Jupyter using pip.
 Important! Jupyter installation requires Python 3.3 or greater.
 
 Install Jupyter using Python’s package manager, pip, instead of Anaconda. 
-1. Ensure that you have the latest pip; older versions may have trouble with some dependencies. **pip3 install --upgrade pip**
-2. Install Jupyter notebook using **pip3 install jupyter**
+* Ensure that you have the latest pip; older versions may have trouble with some dependencies. `pip3 install --upgrade pip`
+* Install Jupyter notebook using `pip3 install jupyter`
 
 The analysis is in the jupyter notebook **netflix_insights.ipynb**.<br/>
 The dataset used is in the file **netflix_titles.csv**.<br/>
@@ -51,4 +51,4 @@ Using descriptive statistics , most of the questiongs raised were answered. Belo
 4. What is the longest running TV Show? **Grey's Anatomy**
 5. What movie has the longest running time.? Black Mirror: Bandersnatch **(312 minutes or roughly 5 hours)**
 # Setting Out
-I have discussed the results of this analysis in this medium post https://sonnygob.medium.com/
+I have discussed the results of this analysis in this medium post [Wow I did not know that about Netflix](https://sonnygob.medium.com/).
